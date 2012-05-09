@@ -22,7 +22,7 @@ action bar instead of the menu key.
 IV: Multiplayer
 --------------
 with C++ &ndash; on
-[google code](http://code.google.com/p/ivmultiplayer/)
+[google code](http://code.google.com/p/ivmultiplayer/),
 [iv-multiplayer.com](http://iv-multiplayer.com/)
 
 Open source multiplayer modification for Rockstar North's Grand Theft Auto:
