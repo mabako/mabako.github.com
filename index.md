@@ -39,12 +39,21 @@ Open source multiplayer modification for Rockstar North's Grand Theft Auto:
 San Andreas providing access to plenty and complex functions, a graphical
 interface, DirectX-functions, completely scriptable via a [lua](http://www.lua.org/).
 
-### Server-side Modules
+### server-side modules
 A bunch of mostly cryptographic modules.
 
 * [base64](https://github.com/mabako/mta-base64): Base64 decoding and encoding as `base64_decode(str)` and `base64_encode1(str)`.
 * [sha](https://github.com/mabako/mta-sha): The sha-family, namely `sha1(str)`, `sha224(str)`, `sha256(str)`, `sha384(str)` and `sha512(str)`.
 * [whirlpool](https://github.com/mabako/mta-whirlpool): Implementation of the whirlpool hash function, exposed to lua as `whirlpool(str)`.
+
+### standalone server browser
+with C++, GTK+ &ndash; on
+[github](https://github.com/mabako/mta-browser)
+
+Queries the Multi Theft Auto server list and shows all server info the way
+it is retrieved. Filters and sorting are supported.
+
+Originally built on Ubuntu Linux, it can be compiled with Dev-C++ on Windows.
 
 sanandreasmap
 -------------
