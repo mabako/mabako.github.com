@@ -44,8 +44,9 @@ interface, DirectX-functions, completely scriptable via a [lua](http://www.lua.o
 with lua &ndash; on
 [github](https://github.com/mabako/mta-paradise)
 
-The pretty much only gamemode I worked on, except for private ones, is a
-roleplay gamemode called mta-paradise set in the virtual town of San Fierro.
+The pretty much only gamemode for Multi Theft Auto I worked on (except for
+private ones) is a roleplay gamemode called mta-paradise set in the virtual
+town of San Fierro.
 
 ### server-side modules
 A bunch of mostly cryptographic modules.
