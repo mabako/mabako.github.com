@@ -36,7 +36,8 @@ with C++ &ndash; on
 [multitheftauto.com](http://multitheftauto.com/)
 
 Open source multiplayer modification for Rockstar North's Grand Theft Auto:
-San Andreas.
+San Andreas providing access to plenty and complex functions, a graphical
+interface, DirectX-functions, completely scriptable via a [lua](http://www.lua.org/).
 
 ### Server-side Modules
 A bunch of mostly cryptographic modules.
