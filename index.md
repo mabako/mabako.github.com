@@ -5,6 +5,7 @@ title: projects
 
 {{ page.title }}
 ================
+More or less a list of projects I've worked on or contributed to.
 
 zwickau-mensa
 -------------
@@ -20,7 +21,7 @@ Menus are different for Android 2.x and Android 3+, the latter uses the
 action bar instead of the menu key.
 
 IV: Multiplayer
---------------
+---------------
 with C++ &ndash; on
 [google code](http://code.google.com/p/ivmultiplayer/),
 [iv-multiplayer.com](http://iv-multiplayer.com/)
