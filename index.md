@@ -40,6 +40,13 @@ Open source multiplayer modification for Rockstar North's Grand Theft Auto:
 San Andreas providing access to plenty and complex functions, a graphical
 interface, DirectX-functions, completely scriptable via a [lua](http://www.lua.org/).
 
+### gamemodes
+with lua &ndash; on
+[github](https://github.com/mabako/mta-paradise)
+
+The pretty much only gamemode I worked on, except for private ones, is a
+roleplay gamemode called mta-paradise set in the virtual town of San Fierro.
+
 ### server-side modules
 A bunch of mostly cryptographic modules.
 
