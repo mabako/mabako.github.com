@@ -26,4 +26,11 @@ with: c++ &ndash; on:
 [multitheftauto.com](http://multitheftauto.com/)
 
 Open source multiplayer modification for Rockstar North's Grand Theft Auto:
-San Andreas
+San Andreas.
+
+### Server-side Modules
+A bunch of mostly cryptographic modules.
+
+* [base64](https://github.com/mabako/mta-base64): Base64 decoding and encoding as `base64_decode(str)` and `base64_encode1(str)`.
+* [sha](https://github.com/mabako/mta-sha): The sha-family, namely `sha1(str)`, `sha224(str)`, `sha256(str)`, `sha384(str)` and `sha512(str)`.
+* [whirlpool](https://github.com/mabako/mta-whirlpool): Implementation of the whirlpool hash function, exposed to lua as `whirlpool(str)`.
