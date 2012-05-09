@@ -5,7 +5,7 @@ title: projects
 
 {{ page.title }}
 ================
-More or less a list of projects I've worked on or contributed to.
+More or less a list of projects with freely accessible source code I've worked on or contributed to.
 
 zwickau-mensa
 -------------
