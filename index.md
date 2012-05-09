@@ -1,10 +1,10 @@
 ---
 layout: default
-title: about
+title: projects
 ---
 
-projects
-========
+{{ page.title }}
+================
 
 zwickau-mensa
 -------------
