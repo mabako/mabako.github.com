@@ -29,8 +29,8 @@ Open source multiplayer modification for Rockstar North's Grand Theft Auto:
 IV, rather simple and unpolished as of now. Was in a different repository
 before it became public, hence most of the commit history was lost.
 
-MultiTheftAuto
---------------
+Multi Theft Auto
+----------------
 with C++ &ndash; on
 [google code](http://code.google.com/p/multitheftauto/),
 [multitheftauto.com](http://multitheftauto.com/)
