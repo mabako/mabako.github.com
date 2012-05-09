@@ -176,10 +176,6 @@ footer {
     padding:0;
   }
   
-  header p.view {
-    position:static;
-  }
-  
   pre, code {
     word-wrap:normal;
   }
