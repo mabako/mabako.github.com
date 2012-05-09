@@ -19,9 +19,19 @@ to be Zwickau.
 Menus are different for Android 2.x and Android 3+, the latter uses the
 action bar instead of the menu key.
 
+IV: Multiplayer
+--------------
+with C++ &ndash; on
+[google code](http://code.google.com/p/ivmultiplayer/)
+[iv-multiplayer.com](http://iv-multiplayer.com/)
+
+Open source multiplayer modification for Rockstar North's Grand Theft Auto:
+IV, rather simple and unpolished as of now. Was in a different repository
+before it became public, hence most of the commit history was lost.
+
 multitheftauto
 --------------
-with c++ &ndash; on
+with C++ &ndash; on
 [google code](http://code.google.com/p/multitheftauto/),
 [multitheftauto.com](http://multitheftauto.com/)
 
