@@ -7,6 +7,28 @@ title: projects
 ================
 More or less a list of projects with freely accessible source code I've worked on or contributed to.
 
+Git.hub
+-------
+with c#, RestSharp &ndash; on
+[github](https://github.com/mabako/Git.hub)
+
+A tiny wrapper for some functions of the Github API v3, containing exactly
+the features needed to integrate as a repository host plugin with
+[Git Extensions](https://github.com/spdr870/gitextensions). That is, you can do
+the following:
+
+* login
+* fork repositories
+* search repositories by query string or user
+* create, reply and close pull requests
+
+Since the basic set of functions work, further extension isn't planned/required
+for the time being. If there is a need for anything particular, feel free to
+drop me a note.
+
+I've created the [Git Extensions](https://github.com/spdr870/gitextensions)
+Github module in its current form as well.
+
 zwickau-mensa
 -------------
 with java &ndash; on
