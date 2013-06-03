@@ -1,0 +1,111 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Georgia, Palatino, Times, 'Times New Roman', sans-serif;
+}
+
+@import url(http://fonts.googleapis.com/css?family=Roboto+Condensed:300);
+
+h1, h2 {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+body {
+  background: url('pattern.png') fixed #fefefe;
+}
+
+#wrapper {
+  margin: 0 auto;
+  width: 800px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:link,
+a:visited {
+  color: #ff7800;
+}
+
+a:hover {
+  color: #f90;
+}
+
+#main {
+  position: relative;
+  top: 40px;
+  left: 280px;
+  width: 500px;
+  padding-bottom: 70px;
+}
+
+#main h1 {
+  padding-top: 40px;
+  font-size: 40px;
+  font-weight: normal;
+  line-height: 40px;
+  letter-spacing: -1px;
+}
+
+#main p:first-child + h1 {
+  padding-top: 20px;
+}
+
+#main p {
+  margin: 20px 0;
+  font-size: 18px;
+  line-height: 20px;
+}
+
+#main ul, #main ol {
+  margin: 20px;
+}
+
+#main li {
+  font-size: 18px;
+  line-height: 23px;
+}
+
+#main ul li {
+  list-style-type: square;
+}
+
+#sidebar {
+  position: fixed;
+  float: left;
+  top: 100px;
+  width: 200px;
+  padding: 20px 20px 0 0;
+  border-right: 1px solid #ccc;
+  text-align: right;
+}
+
+#sidebar h1 {
+  font-size: 40px;
+  font-weight: normal;
+  line-height: 40px;
+  letter-spacing: -1px;
+}
+#sidebar h2 {
+  text-transform: uppercase;
+  font-size: 18px;
+  color: #333;
+  letter-spacing: 1px;
+  line-height: 20px;
+}
+
+#sidebar ul {
+  list-style-type: none;
+  margin: 20px 0;
+}
+
+#sidebar li {
+  font-size: 18px;
+  line-height: 20px;
+}
+
+#SkypeButton_Chat_sunsprk_1 img {
+  margin: 0px !important;
+  vertical-align: -10px !important;
+}
