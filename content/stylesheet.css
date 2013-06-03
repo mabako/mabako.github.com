@@ -48,14 +48,25 @@ a:hover {
   letter-spacing: -1px;
 }
 
-#main p:first-child + h1 {
+h2 {
+  font-size: 28px;
+  letter-spacing: 1px;
+  line-height: 32px;
+  font-weight: normal;
+}
+
+#main h2 {
   padding-top: 20px;
+}
+
+#main p:first-child + h1 {
+  padding-top: 18px;
 }
 
 #main p {
   margin: 20px 0;
   font-size: 18px;
-  line-height: 20px;
+  line-height: 22px;
 }
 
 #main ul, #main ol {
@@ -86,13 +97,6 @@ a:hover {
   font-weight: normal;
   line-height: 40px;
   letter-spacing: -1px;
-}
-#sidebar h2 {
-  text-transform: uppercase;
-  font-size: 18px;
-  color: #333;
-  letter-spacing: 1px;
-  line-height: 20px;
 }
 
 #sidebar ul {
