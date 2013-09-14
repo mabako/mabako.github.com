@@ -27,7 +27,7 @@ with c# and RestSharp &ndash; on
 
 A tiny wrapper for some functions of the Github API v3, containing exactly
 the features needed to integrate as a repository host plugin with
-[Git Extensions](https://github.com/spdr870/gitextensions). That is, you can do
+[Git Extensions](https://github.com/gitextensions/gitextensions). That is, you can do
 the following:
 
 * login
@@ -39,7 +39,7 @@ Since the basic set of functions work, further extension is neither planned
 nor required for the time being.
 If there is a need for anything particular, feel free to drop me a note.
 
-I have created the [Git Extensions](https://github.com/spdr870/gitextensions)
+I have created the [Git Extensions](https://github.com/gitextensions/gitextensions)
 Github module in its current form as well.
 
 zwickau-mensa
