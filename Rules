@@ -21,6 +21,11 @@ compile '/CNAME' do
   # just plaintext
 end
 
+compile '/robots' do
+  # just plaintext
+  nil
+end
+
 compile '*' do
   if item.binary?
     # don't filter binary items
@@ -41,6 +46,10 @@ end
 
 route '/404/' do
   '/404.html'
+end
+
+route '/robots' do
+  '/robots.txt'
 end
 
 route '*' do
